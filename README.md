@@ -46,7 +46,7 @@ Built using **Python (Flask)** for backend and a simple frontend for image uploa
 
 Want to collaborate, ask something, or just say hi?
 
-📧 Email: **[katharpranali26@.com]**  
+📧 Email: **[katharpranali26@gmail.com]**  
 🌐 Portfolio Live: [your-portfolio-link-here]  
 📍 Location: Chh. Sambhajinagar , Maharashtra.
 
