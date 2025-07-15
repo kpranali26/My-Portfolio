@@ -1,7 +1,7 @@
 
 # 🌐 My Portfolio — Pranali Kathar
 
-Hi! I'm ** Pranali Kathar**, a Computer Science undergrad with a curious mind, love for clean design, and a passion for building simple, meaningful projects.  
+Hi! I'm **Pranali Kathar**, a Computer Science undergrad with a curious mind, love for clean design, and a passion for building simple, meaningful projects.  
 This portfolio website is my personal space on the internet — where I showcase who I am, what I’ve learned, and what I love creating!
 
 ---
