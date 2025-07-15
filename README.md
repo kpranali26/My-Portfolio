@@ -1,21 +1,56 @@
-Hi there 👋 I'm Pranali Kathar!
 
-I'm a Computer Science student with a fresh mind, a curious heart, and a strong love for building things that make everyday life easier and more fun. I'm always exploring, experimenting, and learning — whether it's a new web framework or an AI concept that sparks my interest.
+# 🌐 My Portfolio — Pranali Kathar
 
-Right now, I'm enjoying working on:
+Hi! I'm **Jui Pande**, a Computer Science undergrad with a curious mind, love for clean design, and a passion for building simple, meaningful projects.  
+This portfolio website is my personal space on the internet — where I showcase who I am, what I’ve learned, and what I love creating!
 
-🌱 Daily habit tracker apps  
-🤖 AI chatbots with image understanding  
-🧠 Simple machine learning tools for real-world problems  
+---
 
-Technologies I love working with:
+## 📌 About Me
 
-- React.js, Firebase, Flask  
-- C++, Java, Python, JavaScript  
-- SQL, Git, Gemini API  
+I'm currently pursuing B.Tech in Computer Science (2022–2026) and exploring the world of web development, AI tools, and real-world problem solving.  
+I enjoy turning ideas into interactive and user-friendly web apps — and I’m always up for learning something new!
 
-Some of my favorite projects are already up on my GitHub — feel free to explore!
+---
 
-Outside of code, I love organizing events, being part of creative teams, and contributing to causes I believe in. Always open to collaboration, feedback, or even a quick tech chat :)
+## 🛠️ Skills & Technologies
 
-Thanks for visiting my GitHub! Let's grow and build, one step at a time ✨
+**Languages:**  
+C, C++, Java, Python, JavaScript, SQL
+
+**Core Concepts:**  
+Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, DBMS, Computer Networks
+
+**Web & Tools:**  
+React.js, Firebase (Auth + Firestore), Flask, Git, GitHub, HTML, CSS, MySQL, Gemini API, Vercel
+
+---
+
+## 🚀 Projects Featured
+
+### ✅ DailyWinTracker  
+A habit tracker for physical, mental, and spiritual growth.  
+Built with **React.js + Firebase**, visualizes progress using calendar heatmaps and progress rings.
+
+### ✅ AI Chatbot  
+An intelligent chatbot with **text + image input** support using **Gemini API**.  
+Supports image preview, auto-scroll, and is fully mobile responsive.
+
+### ✅ Plant Disease Detection  
+Web app to detect plant diseases using a **CNN model** with 91.5% accuracy.  
+Built using **Python (Flask)** for backend and a simple frontend for image upload and prediction.
+
+---
+
+## 📬 Contact Me
+
+Want to collaborate, ask something, or just say hi?
+
+📧 Email: **[katharpranali26@.com]**  
+🌐 Portfolio Live: [your-portfolio-link-here]  
+📍 Location: Chh. Sambhajinagar , Maharashtra.
+
+---
+
+Thanks for checking out my portfolio!  
+Let’s build something awesome together 🚀
